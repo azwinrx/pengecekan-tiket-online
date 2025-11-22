@@ -1,2 +1,13 @@
-# pengecekan-tiket-online
-Tugas 4 (Golang) Lumoshive Bootcamp Backend Golang
+# Shape Calculator
+
+Program Go untuk mengecek tiket online (Studi Kasus PT. GoBus).
+
+## Cara Menggunakan
+
+```bash
+go run .
+```
+
+## Output
+
+Program akan menampilkan nama penumpang, tujuan, dan harga berdasarkan data yg dimiliki.
